@@ -8,12 +8,12 @@ Windows/Linux infrastruktury, síťovou bezpečnost a automatizaci IT procesů.
 Pracuji jako IT Specialista v PROFIREAL Group SE, kde spravuji 
 Microsoft 365 a Active Directory prostředí pro 200+ uživatelů, 
 řeším helpdesk požadavky, onboarding nových zaměstnanců a podílím 
-se na IT projektech včetně bezpečnostních technologií (Trellix, Wireshark).
+se na IT projektech včetně bezpečnostních technologií.
 
 ## Technické zaměření
 
-- Windows infrastruktura – Active Directory, SCCM, Microsoft 365, PowerShell
-- Linux administrace – server správa, DHCP/DNS, subnetting
+- Windows infrastruktura – Active Directory, SCCM, Microsoft 365, PowerShell, subnetting
+- Linux administrace – server správa, DHCP/DNS, 
 - Virtualizace – VMware ESXi/vSphere, Docker
 - Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů
 - Automatizace – Python, N8N workflow, RAG systémy (Ollama, LM Studio)
