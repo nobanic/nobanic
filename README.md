@@ -26,7 +26,7 @@ se na IT projektech včetně bezpečnostních technologií.
 - **bot_YOLOless** – template matching v OpenCV pro detekci herních 
   objektů bez nutnosti ML modelu
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
-  TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost (přes 133 propojených stránek)
+  TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a brzy i offensive tooling. (přes 133 propojených stránek)
   Knowledge base https://nobanic.github.io/Networking-a-Hacking/#/graph (přepis původních poznámek - v progressu)
 
 ## Kontakt
