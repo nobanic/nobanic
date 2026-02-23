@@ -12,12 +12,12 @@ se na IT projektech včetně bezpečnostních technologií.
 
 ## Technické zaměření
 
-- Windows infrastruktura – Active Directory, SCCM, Microsoft 365, PowerShell, subnetting
+- Windows infrastruktura – Active Directory, SCCM, Microsoft 365, PowerShell,
 - Linux administrace – server správa, DHCP/DNS, 
 - Virtualizace – VMware ESXi/vSphere, Docker
-- Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů
+- Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů, Trellix
 - Automatizace – Python, N8N workflow, RAG systémy (Ollama, LM Studio)
-- Pentesting a analýza
+- Pentesting a analýza (Junior level)
 
 ## Projekty
 
@@ -27,7 +27,7 @@ se na IT projektech včetně bezpečnostních technologií.
   objektů bez nutnosti ML modelu
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
   TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost (přes 133 propojených stránek)
-  Knowledge base https://nobanic.github.io/Networking-a-Hacking/#/graph (přepis původní poznámek - v progressu)
+  Knowledge base https://nobanic.github.io/Networking-a-Hacking/#/graph (přepis původních poznámek - v progressu)
 
 ## Kontakt
 
