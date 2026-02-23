@@ -17,7 +17,7 @@ se na IT projektech včetně bezpečnostních technologií.
 - Virtualizace – VMware ESXi/vSphere, Docker
 - Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů, Trellix
 - Automatizace – Python, N8N workflow, RAG systémy (Ollama, LM Studio)
-- Pentesting a analýza (Junior level)
+- Pentesting a analýza (začátečník)
 
 ## Projekty
 
