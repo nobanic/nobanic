@@ -1,6 +1,6 @@
 # Adrian Purtik – IT Specialist
 
-Self-taught IT specialista z Pardubic se zaměřením na správu 
+Self-taught IT specialista se zaměřením na správu 
 Windows/Linux infrastruktury, síťovou bezpečnost a automatizaci IT procesů.
 
 ## Co aktuálně dělám
