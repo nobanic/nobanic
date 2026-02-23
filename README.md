@@ -28,6 +28,9 @@ se na IT projektech včetně bezpečnostních technologií.
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
   TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a brzy i offensive tooling. (přes 133 propojených stránek)
   Knowledge base https://nobanic.github.io/Networking-a-Hacking/#/graph (přepis původních poznámek - v progressu)
+- **sfera_Pardubice_krouzek** - Kroužek vytvořený pro www.sferapardubice.eu
+<img width="625" height="283" alt="image" src="https://github.com/user-attachments/assets/0a794c72-52dc-4db1-b0be-d38458834376" />
+
 
 ## Kontakt
 
