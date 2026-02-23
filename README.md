@@ -23,7 +23,7 @@ se na IT projektech včetně bezpečnostních technologií.
 
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
   TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a brzy i offensive tooling. (přes 150 propojených stránek - klikni na node a uvidíš poznámky!)
-  Knowledge base https://nobanic.github.io/Networking-a-Hacking/#/graph (přepis původních poznámek - v progressu)
+  Odkaz: https://nobanic.github.io/Networking-a-Hacking/#/graph (v progressu)
 - **Bot** – objektová detekce pomocí YOLOv4 a OpenCV2, pipeline od 
   sběru dat přes trénování modelu až po detekci v reálném čase
 - **bot_YOLOless** – template matching v OpenCV pro detekci herních 
