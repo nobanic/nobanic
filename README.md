@@ -16,7 +16,7 @@ se na IT projektech včetně bezpečnostních technologií.
 - Linux administrace – server správa, DHCP/DNS, 
 - Virtualizace – VMware ESXi/vSphere, Docker
 - Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů, Trellix
-- Automatizace – Python, N8N workflow, RAG systémy (Ollama, LM Studio)
+- Automatizace – Python, N8N workflow, RAG systémy (napojené na Ollama, LM Studio pro lokální AI), Objektová detekce s pixelovou segmentací (použitý algoritmus - YOLO).
 - Pentesting a analýza (začátečník)
 
 ## Projekty
