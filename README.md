@@ -1,7 +1,4 @@
-# Adrian Purtik – IT Specialist
-
-Self-taught IT specialista se zaměřením na 403 
-Windows/Linux infrastruktury, síťovou bezpečnost a automatizaci IT procesů.
+# Adrian Purtik – IT Administrátor
 
 ## Co aktuálně dělám
 
