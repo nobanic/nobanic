@@ -2,7 +2,7 @@
 
 ## Co aktuálně dělám
 
-403
+Uroboros - autonomní pentestovací konzole
 
 ## Technické zaměření
 
@@ -10,12 +10,12 @@
 - Linux administrace – server správa, DHCP/DNS, 
 - Virtualizace – VMware ESXi/vSphere, Docker
 - Monitoring & Security – Zabbix, Wireshark, TCPdump, analýza logů, Trellix, Wazuh, GoodAcces, UAL 
-- Automatizace – Python, N8N workflow, RAG systémy (napojené na Ollama, LM Studio pro lokální AI), Objektová detekce s pixelovou segmentací (použitý algoritmus - YOLO), OpenClaw, Vlastní Agent harness pro 403
+- Automatizace – Python, N8N workflow, RAG systémy (napojené na Ollama, LM Studio pro lokální AI), Objektová detekce s pixelovou segmentací (použitý algoritmus - YOLO), OpenClaw, Vlastní Agent harness pro Uroborose
 - Pentesting a analýza 
 
 ## Projekty
 
-- **Uroboros** 403
+- **Uroboros** autonomní pentestovací konzole
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
   TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a brzy i offensive tooling. (přes 170 propojených stránek - klikni na node a uvidíš poznámky!)
   Odkaz: https://nobanic.github.io/Networking-a-Hacking/#/graph (v progressu) Stats: 93 589 bez mezer 78 766 znaků a 11 556 slov
@@ -29,3 +29,5 @@
 ## Kontakt
 
 LinkedIn: https://www.linkedin.com/in/adrian-purtik-415183275/
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C8S229C6V0)
