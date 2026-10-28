@@ -22,7 +22,7 @@ Uroboros - autonomní pentestovací konzole
   sběru dat přes trénování modelu až po detekci v reálném čase
 - **bot_YOLOless** – template matching v OpenCV pro detekci herních 
   objektů bez nutnosti ML modelu
-- **sfera_Pardubice_krouzek** - Kroužek vytvořený pro www.sferapardubice.eu
+- **sfera_Pardubice_krouzek** - Kroužek vytvořený pro polytechnické dílny
 
 
 ## Kontakt
