@@ -17,8 +17,7 @@ Uroboros - autonomní pentestovací konzole
 
 - **Uroboros** autonomní pentestovací konzole
 - **Networking-a-Hacking** – osobní knowledge base pokrývající OSI model, 
-  TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a brzy i offensive tooling. (přes 170 propojených stránek - klikni na node a uvidíš poznámky!)
-  Odkaz: https://nobanic.github.io/Networking-a-Hacking/#/graph (v progressu) Stats: 93 589 bez mezer 78 766 znaků a 11 556 slov
+  TCP/IP, DNS, VPN, IPSec, Wireshark a síťovou bezpečnost a offensive tooling.
 - **Bot** – objektová detekce pomocí YOLOv4 a OpenCV2, pipeline od 
   sběru dat přes trénování modelu až po detekci v reálném čase
 - **bot_YOLOless** – template matching v OpenCV pro detekci herních 
